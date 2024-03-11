@@ -84,11 +84,11 @@ Analisis Univariat adalah metode analisis data yang fokus pada representasi info
 
 Berikut adalah hasil dari Analisis Univariat dan Visualisasi Data (EDA) menggunakan teknik barplot.
 
-![download (8)](https://github.com/ahmadsuaif/Proyek-Akhir-Sistem-Rekomendasi/assets/66425290/cd34f1c8-15c9-4000-bb3d-531c8285a975)
+![download (8)](https://github.com/whiteevl/Laporan-Sistem-Rekomendasi/blob/main/download.png)
 
 Gambar 1a. Analisis Univariat (Data Kategori)
 
-![download (9)](https://github.com/ahmadsuaif/Proyek-Akhir-Sistem-Rekomendasi/assets/66425290/b19f0786-9a03-4a98-8768-46839a934907)
+![download (9)](https://github.com/whiteevl/Laporan-Sistem-Rekomendasi/blob/main/download%20(1).png)
 
 Gambar 1b. Analisis Univariat (Data Numerik)
 
@@ -113,7 +113,7 @@ Pada tahap Pembersihan Data, secara umum, terdapat tiga metode yang dapat ditera
 
 Dengan menggunakan visualisasi matriks, terlihat adanya data yang tidak lengkap, sebagaimana dapat dilihat pada Gambar 2.
 
-![download (10)](https://github.com/ahmadsuaif/Proyek-Akhir-Sistem-Rekomendasi/assets/66425290/e82a237b-e708-4663-8717-2ef130609b4c)
+![download (10)](https://github.com/whiteevl/Laporan-Sistem-Rekomendasi/blob/main/download%20(2).png)
 
 
 Gambar 2. Visualiasi Matriks Data
